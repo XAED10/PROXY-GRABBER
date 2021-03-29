@@ -1,0 +1,11 @@
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\bin\Debug\XAED PROXY GRABBER.exe.config
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\bin\Debug\XAED PROXY GRABBER.exe
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\bin\Debug\XAED PROXY GRABBER.pdb
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\bin\Debug\XAED PROXY GRABBER.xml
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\obj\Debug\XAED PROXY GRABBER.vbprojAssemblyReference.cache
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\obj\Debug\XAED_PROXY_GRABBER.Resources.resources
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\obj\Debug\XAED PROXY GRABBER.vbproj.GenerateResource.cache
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\obj\Debug\XAED PROXY GRABBER.vbproj.CoreCompileInputs.cache
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\obj\Debug\XAED PROXY GRABBER.exe
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\obj\Debug\XAED PROXY GRABBER.xml
+C:\Users\iihct\source\repos\XAED PROXY GRABBER\XAED PROXY GRABBER\obj\Debug\XAED PROXY GRABBER.pdb
